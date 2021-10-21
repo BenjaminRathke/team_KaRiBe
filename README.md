@@ -1,1 +1,12 @@
+# Does Demographic Data Accurately Predict Vaccination Stauts?
+
+## Our Selected Topic
+Using a dataset from the CDC, we will be using a supervised linear regression model to attempt to ask the question:  do demographic characteristics accurately predict the likelihood of full vaccination?  
+
+## Source Data
+Source data comes from CDC data on vaccination rates and demographic information.  Demographic information is reported as a total of vaccinated persons by date and what category they may fall into; it does not provide demographic information by each person vaccinated.  We will need to adjust the data and likely remove several factors to answer the question posed.  As our group studies the data, manipulation and clean up methods will become clearer.
+
+## Communication Protocols
+We will primarily communicate utilizing an iMessage thread titled Team KaRiBe, updating each other as deliverable progress is made.
+
 
