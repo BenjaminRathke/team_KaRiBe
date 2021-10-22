@@ -1,4 +1,4 @@
-# Does Demographic Data Accurately Predict Vaccination Stauts?
+# Does Demographic Data Accurately Predict Vaccination Status?
 
 ## Our Selected Topic
 Using a dataset from the CDC, we will be using a supervised linear regression model to attempt to ask the question:  do demographic characteristics such as race and age group accurately predict the likelihood of full vaccination?  
