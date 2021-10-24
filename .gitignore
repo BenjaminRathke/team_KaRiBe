@@ -1,4 +1,6 @@
-Resources/vacc_by_county
+Resources/Data/COVID-19_Vaccination_Demographics_in_the_United_States_National.csv
+Resources/Data/Vacc_by_county
+Resources/Data/vaccByCounty.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
