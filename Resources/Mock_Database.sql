@@ -38,3 +38,4 @@ CREATE table vaccByCounty(
 copy vaccByCounty
 from 'C:/Users/Public/Documents/Mock-Data-File.csv'
 with (format csv, header);
+
