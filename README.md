@@ -1,4 +1,4 @@
-#NOTE:  DRASTIC CHANGES TO PROJECT COMING
+# NOTE:  DRASTIC CHANGES TO PROJECT COMING
 Due to running into unforseen issues with the selected Covid-19 datasets, we are completely re-starting the project with a new dataset.
 
 The new data for SQL tables/schema and logistic regression model is stored in the Resources folder of the "ben" branch.
@@ -6,7 +6,7 @@ The new data for SQL tables/schema and logistic regression model is stored in th
 This readme will be updated in less than 48 hours.
 -Ben
 
-# Does Demographic Data Accurately Predict Vaccination Stauts?
+## Does Demographic Data Accurately Predict Vaccination Stauts?
 
 ## Our Selected Topic
 Using a dataset from the CDC, we will be using a supervised linear regression model to attempt to ask the question:  do demographic characteristics such as race and age group accurately predict the likelihood of full vaccination?  
