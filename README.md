@@ -1,23 +1,15 @@
-# NOTE:  DRASTIC CHANGES TO PROJECT COMING
-Due to running into unforseen issues with the selected Covid-19 datasets, we are completely re-starting the project with a new dataset.
-
-The new data for SQL tables/schema and logistic regression model is stored in the Resources folder of the "ben" branch.
-
-This readme will be updated in less than 48 hours.
--Ben
-
-## Does Demographic Data Accurately Predict Vaccination Stauts?
+# Do Certain Song Characteristics Impact Likelihood of Winning a Grammy Award?
 
 ## Our Selected Topic
-Using a dataset from the CDC, we will be using a supervised linear regression model to attempt to ask the question:  do demographic characteristics such as race and age group accurately predict the likelihood of full vaccination?  
+Using datasets scraped from grammy.com, a graduate music and data analysis project at California Polytechnic State University in San Luis Obispo, and sourced from kaggle.com, we set out to determine whether or not certain song characteristics could predict whether or not a song, if nominated, is likely to win "Song of the Year."
 
 ## Reason for Data Selection
-This is a very topical data set right now, from the standpoint of basic public health, politically, and sociologically.  What demographic factors may contribute to vaccination resistance?
+While one group member is a musician, the saying goes that music is a universal language.  It may be both useful and fascinating to determine whether or not certain objective and subjective song factors can help predict whether nominated songs will win.
 
 ## Source Data
-Source data comes from CDC data on vaccination rates and demographic information.  Demographic information is reported as a total of vaccinated persons by date and what category they may fall into; it does not provide demographic information by each person vaccinated.  We will need to adjust the data and likely remove several factors to answer the question posed.  As our group studies the data, manipulation and clean up methods will become clearer.  Additional or completely different datasets may need to be sourced to have a more robust set of features with which to create accurate models for prediction.
+Source data was originally scraped from grammy.com, compiled by a graduate music and data analysis project at California Polytechnic State University in San Luis Obispo, and these and a few other tables were sourced from kaggle.com.
 
 ## Communication Protocols
-We will primarily communicate utilizing an iMessage thread titled Team KaRiBe, updating each other as deliverable progress is made.
+We will primarily communicate utilizing an iMessage thread titled Team KaRiBe, updating each other as deliverable progress is made.  Zoom is also used for more direct communciation and explanation, while easy link and file sharing is done through Slack.
 
 
