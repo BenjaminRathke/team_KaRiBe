@@ -1,0 +1,55 @@
+--Create two tables. I seperated the clean data file we had into two files then used cross join to combine them again. Our other data files are combined in our clean data file.
+
+create table if not exists SongData1(
+	Winner int,
+	Acousticness varchar,
+	Danceability varchar,
+	Duration varchar,
+	Energy varchar,
+	Explicit varchar,
+	Instrumentalness varchar
+);
+
+copy SongData1
+	from 'C:\Users\reske\Documents\Data Analysis Bootcamp\team_KaRiBe\Resources\Data\songdata_cleaned.csv'
+	delimiter ','
+	csv header;
+	
+create table if not exists SongData2 (	
+	Liveness varchar,
+	Loudness varchar,
+	Popularity int,
+	Speechiness varchar,
+	Tempo varchar,
+	TimeSignature varchar,
+	Valence varchar
+);
+
+copy SongData2
+	from 'C:\Users\reske\Documents\Data Analysis Bootcamp\team_KaRiBe\Resources\Data\song_data_cleaned2.csv'
+	delimiter ','
+	csv header;
+select * from SongData2
+--select * from SongData1
+
+--join tables
+select * into Song_Data
+from SongData1 w 
+Cross Join SongData2 m;
+select * from Song_Data
+
+--count how many 0's in winner column 0=loser=2475
+
+Select Count(*) From Song_Data Where winner= 0;
+
+--count how many 1's in winner column 1=winner=550
+
+Select Count(*) From Song_Data Where winner= 1;
+
+--select all data where winner=1 and popularity=0 to see why song won if it wasnt popular
+
+Select * From Song_Data where winner=1 and popularity=0;
+
+--
+
+
