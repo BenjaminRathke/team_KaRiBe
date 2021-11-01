@@ -24,4 +24,13 @@ Three original datasets were used.  The "Song of the Year" award does not go to 
 * Textual boolean values were converted to integers for machine learning models.
 * Finally, the cleaned dataframe was created and exported as a usable dataset for machine learning models.
 
+##  How was data split into training and testing sets
+* Data was split using standard sklearn.model_selection's train_test_split.
+* Features were scaled as data such as "duration" were excessively larger than other features and could have caused confusion in the models.
+
+##  Model Choice
+Multiple supervised models were explored.  Team members still need to discuss which may be best before final selection.  In the final model, up to four features will be dropped in the final model as ranked importances performed after a random forest model illustrated the minor impact of several features.
+
+
+
 ### Note:  this was not our original project idea.  Benjamin Rathke (author of this readme) originally sourced data from COVID-19 data and statistics, but that data did not lend itself well to the machine learning models the group wished to employ.
