@@ -12,4 +12,8 @@ Source data was originally scraped from grammy.com, compiled by a graduate music
 ## Communication Protocols
 We will primarily communicate utilizing an iMessage thread titled Team KaRiBe, updating each other as deliverable progress is made.  Zoom is also used for more direct communciation and explanation, while easy link and file sharing is done through Slack.
 
+## Data Preprocessing
+Three original datasets were used.  
+* Test
+
 ### Note:  this was not our original project idea.  Benjamin Rathke (author of this readme) originally sourced data from COVID-19 data and statistics, but that data did not lend itself well to the machine learning models the group wished to employ.
