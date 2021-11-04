@@ -9,9 +9,6 @@ While one group member is a musician, the saying goes that music is a universal 
 ## Source Data
 Source data was originally scraped from grammy.com, compiled by a graduate music and data analysis project at California Polytechnic State University in San Luis Obispo, and these and a few other tables were sourced from kaggle.com.
 
-## Communication Protocols
-We will primarily communicate utilizing an iMessage thread titled Team KaRiBe, updating each other as deliverable progress is made.  Zoom is also used for more direct communciation and explanation, while easy link and file sharing is done through Slack.
-
 ## Data Preprocessing
 Three original datasets were used.  The "Song of the Year" award does not go to the performing artist alone; it includes all writers.  Some data sets included the writers only, some included both writers and performing artists, and some included performing artists alone.  Some data sets only included the nominated, some included only the winners.  Preprocessing was done primarily using python and pandas.
 
