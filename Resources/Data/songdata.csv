@@ -1,103 +1,103 @@
-song_name,artist,year,winner,title,published_at,updated_at,category,workers,img,Unnamed: 0,Acousticness,Album,Artist,Danceability,Duration,Energy,Explicit,Instrumentalness,Liveness,Loudness,Mode,Popularity,Speechiness,Tempo,TimeSignature,Valence
-All The Stars,"Kendrick Lamar, SZA, Al Shuckburgh, Mark Spears & Anthony Tiffith",2018,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Boo'd Up,"Larrance Dopson, Joelle James, Ella Mai & Dijon McFarlane",2018,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-God's Plan,"Drake, Daveon Jackson, Brock Korsan, Ron LaTour, Matthew Samuels & Noah Shebib",2018,FALSE,,,,,,,112,0.0332,Scorpion,Drake,0.754,198973,0.449,TRUE,8.29E-05,0.552,-9.211,1,86,0.109,77.169,4,0.357
-In My Blood,"Teddy Geiger, Scott Harris, Shawn Mendes & Geoffrey Warburton",2018,FALSE,,,,,,,164,0.069,,,,,,,,,,,,,,,
-The Joke,"Brandi Carlile, Dave Cobb, Phil Hanseroth & Tim Hanseroth",2018,FALSE,,,,,,,26,0.327,"By The Way, I Forgive You",Brandi Carlile,0.236,279373,0.578,FALSE,0.00015,0.206,-5.477,1,62,0.0404,75.367,4,0.227
-The Middle,"Sarah Aarons, Jordan K. Johnson, Stefan Johnson, Marcus Lomax, Grey & Zedd",2018,FALSE,,,,,,,34,0.0371,,,,,,,,,,,,,,,
-Shallow,"Lady Gaga, Mark Ronson, Anthony Rossomando & Andrew Wyatt",2018,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Despacito,"Daddy Yankee, Justin Bieber, Jason ""Poo Bear"" Boyd, Erika Ender, Luis Fonsi & Marty James Garton",2017,FALSE,,,,,,,221,0.198,VIDA,Luis Fonsi,0.655,229360,0.797,FALSE,0,0.067,-4.787,1,79,0.153,177.928,4,0.839
-4:44,Jay-Z & Dion Wilson,2017,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Issues,"Benjamin Levin, Mikkel Storleer, Tor Erik Hermansen, Julia Michaels & Justin Drew Tranter",2017,FALSE,,,,,,,14,0.349,,,,,,,,,,,,,,,
-1-800-273-8255,"Alessia Cara, Logic, Arjun Ivatury & Khalid",2017,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Alright,"Kendrick Lamar, Mark Anthony Spears & Pharrell",2016,FALSE,,,,,,,77,0.0742,To Pimp A Butterfly,Kendrick Lamar,0.796,219333,0.766,TRUE,0,0.0827,-5.974,1,26,0.238,110.034,4,0.558
-Blank Space,"Max Martin, Shellback & Taylor Swift",2016,FALSE,,,,,,,1,0.103,1989 (Deluxe Edition),Taylor Swift,0.76,231827,0.703,FALSE,0,0.0913,-5.412,1,60,0.054,95.997,4,0.57
-Girl Crush,"Hillary Lindsey, Lori McKenna & Liz Rose",2016,FALSE,,,,,,,31,0.842,Pain Killer,Little Big Town,0.5,193320,0.225,FALSE,0,0.112,-10.22,1,23,0.0302,173.788,3,0.355
-See You Again,"Andrew Cedar,Justin Franks, Charlie Puth & Wiz Khalifa",2016,FALSE,,,,,,,23,0.0149,,,,,,,,,,,,,,,
-All About That Bass,Kevin Kadish & Meghan Trainor,2015,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Chandelier,Sia,2015,FALSE,,,,,,,0,0.0163,1000 Forms of Fear (Deluxe Version),Sia,0.286,216120,0.784,FALSE,6.48E-05,0.0713,-2.873,1,34,0.0749,173.793,4,0.618
-Shake It Off,"Max Martin, Shellback & Taylor Swift",2015,FALSE,,,,,,,5,0.0647,1989 (Deluxe Edition),Taylor Swift,0.647,219200,0.8,FALSE,0,0.334,-5.384,1,59,0.165,160.078,4,0.942
-Take Me To Church,Hozier,2015,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Just Give Me A Reason,"Jeff Bhasker, Pink & Nate Ruess",2014,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Locked Out Of Heaven,"Phillip Lawrence, Art Levine & Bruno Mars",2014,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Roar,"Lukasz Gottwalk, Max Martin, Bonnie McKee, Katy Perry & Henry Walter",2014,FALSE,,,,,,,0,0.00487,PRISM (Deluxe),Katy Perry,0.554,223546,0.772,FALSE,6.60E-06,0.354,-4.821,0,78,0.0418,179.984,4,0.455
-Same Love,"Macklemore, Mary Lambert & Ryan Lewis",2014,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Stronger (What Doesn't Kill You),"Jorgen Elofsson, David Gamson, Greg Kurstin & Ali Tamposi",2013,FALSE,,,,,,,18,0.0442,Stronger (Deluxe Version),Kelly Clarkson,0.564,221947,0.939,FALSE,0,0.112,-4.278,1,46,0.0478,116.025,4,0.613
-Call Me Maybe,Carly Rae Jepson,2013,FALSE,,,,,,,32,0.0106,Kiss (Deluxe),Carly Rae Jepsen,0.782,193853,0.573,FALSE,2.82E-06,0.107,-6.558,1,55,0.0382,120.005,4,0.658
-Adorn,Miguel,2013,FALSE,,,,,,,0,0.0543,Kaleidoscope Dream (Deluxe Version),Miguel,0.625,193147,0.576,FALSE,4.07E-05,0.187,-5.693,0,34,0.175,179.063,4,0.235
-The A Team,Ed Sheeran,2013,FALSE,,,,,,,32,0.669,+,Ed Sheeran,0.642,258373,0.289,FALSE,0,0.18,-9.918,1,27,0.0367,84.996,4,0.407
-Holocene,Justin Vernon,2012,FALSE,,,,,,,12,0.943,Bon Iver,Bon Iver,0.375,336613,0.304,FALSE,0.303,0.126,-14.52,1,71,0.0302,147.989,4,0.147
-Grenade,"Brody Brown, Claude Kelly, Philip Lawrence, Ari Levine, Bruno Mars & Andrew Wyatt",2012,FALSE,,,,,,,24,0.146,Doo-Wops & Hooligans,Bruno Mars,0.706,223253,0.558,FALSE,0,0.118,-7.237,0,75,0.0593,110.443,4,0.227
-The Cave,Mumford & Sons,2012,FALSE,,,,,,,42,0.0487,Sigh No More (Deluxe),Mumford,0.59,218000,0.51,FALSE,8.79E-05,0.0819,-9.456,1,42,0.0384,141.939,4,0.331
-All Of The Lights,"Jeff Bhasker, Malik Jones, Warren Trotter & Kanye West",2012,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Love The Way You Lie,"Alexander Grant, Holly Hafferman & Eminem",2011,FALSE,,,,,,,37,0.241,Recovery (Deluxe Edition),Eminem,0.749,263373,0.925,TRUE,0,0.52,-5.034,1,14,0.227,86.989,4,0.641
-The House That Built M,Tom Douglas & Allen Shambolin,2011,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-F*** Yo,"Cee Lo Green, Phillip Lawrence & Bruno Mars",2011,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Beg Steal Or Borrow,Ray LaMontagne,2011,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-You Belong With Me,Liz Rose & Taylor Swift,2010,FALSE,,,,,,,85,0.16,Fearless,Taylor Swift,0.688,231453,0.765,FALSE,1.78E-05,0.103,-4.451,1,34,0.0387,129.967,4,0.431
-Use Somebody,Kings Of Leon,2010,FALSE,,,,,,,29,0.00552,Only By The Night,Kings Of Leon,0.276,230760,0.715,FALSE,0.000417,0.201,-5.356,1,77,0.0432,137.028,4,0.173
-Pretty Wings,Hod David & Musze,2010,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Poker Face,Lady Gaga & RedOne,2010,FALSE,,,,,,,110,0.118,The Fame,Lady Gaga,0.851,237200,0.806,FALSE,1.64E-06,0.121,-4.62,1,76,0.0787,118.999,4,0.787
-American Boy,"William Adams, Keith Harris, Josh Lopez, Caleb Speir, John Stephens, Estelle Swaray & Kanye West",2009,FALSE,,,,,,,31,0.171,Shine,Estelle,0.727,284733,0.729,TRUE,0,0.07,-2.99,1,27,0.326,117.932,4,0.512
-Chasing Pavements,Adele Adkins & Eg White,2009,FALSE,,,,,,,2,0.312,19,Adele,0.621,210507,0.473,FALSE,0,0.11,-6.07,0,65,0.0251,80.027,4,0.325
-I'm Yours,Jason Mraz,2009,FALSE,,,,,,,19,0.595,We Sing. We Dance. We Steal Things. (Deluxe),Jason Mraz,0.686,242187,0.457,FALSE,0,0.105,-8.322,1,42,0.0468,150.953,4,0.718
-Love Song,Sara Bareilles,2009,FALSE,,,,,,,62,0.0208,Little Voice,Sara Bareilles,0.583,258827,0.786,FALSE,0,0.188,-3.142,0,77,0.0301,123.052,4,0.573
-Before He Cheats,Josh Kear & Chris Tompkins,2008,FALSE,,,,,,,63,0.271,Some Hearts,Carrie Underwood,0.519,199947,0.749,FALSE,0,0.119,-3.318,0,74,0.0405,147.905,4,0.29
-Hey There Delilah,Tom Higgenson,2008,FALSE,,,,,,,31,0.872,All That We Needed,Plain White T's,0.657,232533,0.291,FALSE,0,0.114,-10.572,1,81,0.0293,103.973,4,0.298
-Like a Star,Corinne Bailey Rae,2008,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Umbrella,"Shawn Carter, Kuk Harrell, Terius 'Dream' Nash & Christopher Stewart",2008,FALSE,,,,,,,187,0.00923,Good Girl Gone Bad: Reloaded,Rihanna,0.585,275987,0.833,FALSE,0,0.0452,-4.569,1,42,0.113,174.01,4,0.597
-Be Without You,"Johnta Austin, Mary J. Blige, Bryan-Michael Cox & Jason Perry",2007,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-"Jesus, Take The Wheel","Brett James, Hillary Lindsey & Gordie Sampso",2007,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Put Your Records On,"John Beck, Steve Christanthou & Corinne Bailey Rae",2007,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-You're Beautiful,"James Blunt, Amanda Ghost & Sacha Skarbek",2007,FALSE,,,,,,,62,0.633,Back to Bedlam,James Blunt,0.675,209493,0.479,TRUE,1.76E-05,0.088,-9.87,0,69,0.0278,81.998,4,0.454
-Bless The Broken Road,"Bobby Boyd, Jeff Hanna & Marcus Hummon",2006,FALSE,,,,,,,29,0.668,Feels Like Today,Rascal Flatts,0.588,226693,0.448,FALSE,1.45E-05,0.156,-6.37,1,22,0.0265,135.949,4,0.362
-Devil & Dust,Bruce Springsteen,2006,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Ordinary People,W. Adams & John Legend,2006,FALSE,,,,,,,46,0.929,Get Lifted,John Legend,0.469,281467,0.132,FALSE,0,0.0873,-14.001,1,71,0.0807,67.011,3,0.36
-We Belong Together,"J. Austin, Mariah Carey, J. Dupri & M. Seal",2006,FALSE,,,,,,,204,0.026,The Emancipation of Mimi,Mariah Carey,0.841,201387,0.475,FALSE,0,0.0785,-7.945,1,27,0.0644,139.971,4,0.765
-If I Ain't Got You,Alicia Keys,2005,FALSE,,,,,,,49,0.603,The Diary Of Alicia Keys,Alicia Keys,0.609,228707,0.445,FALSE,6.77E-06,0.104,-9.129,1,80,0.106,118.393,3,0.166
-Jesus Walks,C. Smith & Kanye West,2005,FALSE,,,,,,,126,0.00902,Gangsta Grillz Legends Series,,,,,,,,,,,,,,
-Live Like You Were Dying,Tim Nichols & Craig Wiseman,2005,FALSE,,,,,,,132,0.492,Live Like You Were Dying,Tim McGraw,0.416,300333,0.546,FALSE,0,0.0845,-7.728,1,68,0.0297,159.929,4,0.418
-The Reason,Hoobastank,2005,FALSE,,,,,,,61,0.0772,Gravity,,,,,,,,,,,,,,
-Beautiful,Linda Perry,2004,FALSE,,,,,,,139,0.578,Stripped,Christina Aguilera,0.457,238560,0.573,FALSE,3.05E-06,0.114,-3.866,0,72,0.0275,76.193,4,0.0992
-I'm With You,Avril Lavigne & The Matrix,2004,FALSE,,,,,,,0,0.414,Spreading Rumours (Deluxe Version),,,,,,,,,,,,,,
-Lose Yourself,Lose Yourself,2004,FALSE,,,,,,,,,,Eminem,,,,,,,,,,,,,
-Complicated,Avril Lavigne & The Matrix,2003,FALSE,,,,,,,13,0.0572,Let Go,Avril Lavigne,0.585,244507,0.776,FALSE,7.74E-06,0.3,-5.898,1,79,0.0459,77.987,4,0.427
-The Rising,Bruce Springsteen,2003,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-A Thousand Miles,Vanessa Carlton,2003,FALSE,,,,,,,38,0.263,Be Not Nobody,Vanessa Carlton,0.573,237373,0.818,FALSE,0,0.161,-4.469,1,12,0.0355,94.933,4,0.309
-Where Were You (When The World Stopped Turning),Alan Jackson,2003,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Drops Of Jupiter,"Charlie Colin, Rob Hotchkiss, Pat Monahan, Jimmy Stafford & Scott Underwood",2002,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-I'm Like A Bird,Nelly Furtado,2002,FALSE,,,,,,,120,0.145,"Whoa, Nelly!",Nelly Furtado,0.623,243160,0.605,FALSE,3.46E-06,0.227,-5.113,1,0,0.0353,89.656,4,0.616
-Stuck In A Moment You Can't Get Out Of,U2,2002,FALSE,,,,,,,180,0.407,All That You Can't Leave Behind,U2,0.526,273467,0.665,FALSE,0.000271,0.169,-4.997,1,65,0.0243,158.493,4,0.285
-Video,"India.Arie, Carlos Broady & Shannon Sanders",2002,FALSE,,,,,,,19,0.104,Acoustic Soul,India.Arie,0.652,249960,0.621,FALSE,5.30E-06,0.0382,-8.677,0,63,0.263,169.983,4,0.661
-Breathe,Stephanie Bentley & Holly Lamar,2001,FALSE,,,,,,,86,0.00615,"Hints, Allegations & Things Left Unsaid",,,,,,,,,,,,,,
-I Hope You Dance,Mark D. Sanders & Tia Sellers,2001,FALSE,,,,,,,13,0.0569,I Hope You Dance,Lee Ann Womack,0.381,294440,0.451,FALSE,0,0.112,-9.592,0,49,0.0307,151.109,4,0.244
-I Try,"Macy Gray, Jinsoo Lim, Jeremy Ruzumna & David Wilder",2001,FALSE,,,,,,,65,0.313,On How Life Is,Macy Gray,0.593,239440,0.642,FALSE,0.000582,0.0804,-7.284,1,73,0.0299,76.403,4,0.736
-Say My Name,"La Shawn Daniels, Fred Jerkins III, Rodney Jerkins, Beyoncé Knowles, LeToya Lucket, LaTavia Roberson & Kelendria Rowland",2001,FALSE,,,,,,,133,0.000151,When Legends Rise,,,,,,,,,,,,,,
-I Want It That Way,Andreas Carlsson & Max Martin,2000,FALSE,,,,,,,62,0.257,Millennium,Backstreet Boys,0.689,213307,0.694,FALSE,0,0.148,-5.83,0,79,0.027,99.039,4,0.482
-Livin' La Vida Loca,Desmond Child & Robi Rosa,2000,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-Unpretty,"Dallas Austin & Tionne ""T-Boz"" Watkins",2000,FALSE,,,,,,,54,0.0011,Fanmail,TLC,0.648,278000,0.636,FALSE,6.39E-05,0.125,-6.054,1,38,0.0401,88.692,4,0.532
-You've Got A Way,"Robert John ""Mutt"" Lange & Shania Twain",2000,FALSE,,,,,,,,,,,,,,,,,,,,,,,
-I Don't Want To Miss A Thing,Diane Warren,1999,FALSE,,,,,,,46,0.00228,From The Screen To Your Stereo,,,,,,,,,,,,,,
-Iris,John Rzeznik,1999,FALSE,,,,,,,62,0.00125,Dizzy up the Girl,Goo Goo Dolls,0.315,289533,0.715,FALSE,7.97E-06,0.0942,-8.072,0,79,0.0362,155.925,3,0.497
-Lean On Me,Kirk Franklin,1999,FALSE,,,,,,,163,0.269,The Nu Nation Project,Kirk Franklin,0.517,309067,0.464,FALSE,0,0.0827,-8.021,1,47,0.0275,106.395,4,0.162
-This Is America,Childish Gambino,2018,TRUE,61st Annual GRAMMY Awards  (2018),2018-12-06T23:48:49-08:00,2019-09-10T01:06:11-07:00,Song Of The Year,"Donald Glover, Ludwig Göransson & Jeffery Lamar Williams, songwriters (Childish Gambino)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Childish%2BGambino/Childish%2520Gambino_1_1_1591112936.jpg?itok=AU_J_f8x,,,,Childish Gambino,,,,,,,,,,,,,
-That's What I Like,,2017,TRUE,60th Annual GRAMMY Awards  (2017),2018-05-22T03:08:24-07:00,2019-09-10T01:06:11-07:00,Song Of The Year,"Christopher Brody Brown, James Fauntleroy, Philip Lawrence, Bruno Mars, Ray Charles McCullough II, Jeremy Reeves, Ray Romulus & Jonathan Yip, songwriters (Bruno Mars)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/James%2BFauntleroy/James%2520Fauntleroy_1_1_1581557523.jpg?itok=_ub-XLB4,18,0.013,24K Magic,Bruno Mars,0.853,206693,0.56,FALSE,0,0.0944,-4.961,1,83,0.0406,134.066,4,0.86
-Hello,,2016,TRUE,59th Annual GRAMMY Awards  (2016),2017-11-28T00:03:45-08:00,2019-09-10T01:06:11-07:00,Song Of The Year,"Adele Adkins & Greg Kurstin, songwriters (Adele)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Adele/Adele_1_1_1584090130.jpg?itok=xlwW6t3a,23,0.336,25,Adele,0.481,295493,0.451,FALSE,0,0.0872,-6.095,0,73,0.0347,157.966,4,0.289
-Thinking Out Loud,,2015,TRUE,58th Annual GRAMMY Awards  (2015),2017-11-28T00:03:45-08:00,2019-09-10T01:09:02-07:00,Song Of The Year,"Ed Sheeran & Amy Wadge, songwriters (Ed Sheeran)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Ed%2BSheeran/Ed%2520Sheeran_1_1_1594056948.jpg?itok=On8YTR-K,110,0.0118,Lovers Rock and Soul,,,,,,,,,,,,,,
-Stay With Me (Darkchild Version),,2014,TRUE,57th Annual GRAMMY Awards  (2014),2017-11-28T00:03:45-08:00,2020-09-01T12:16:40-07:00,Song Of The Year,"James Napier, William Phillips & Sam Smith, songwriters (Sam Smith)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/sam-smith-02.jpg?itok=EwX5jbxK,,,,,,,,,,,,,,,,,
-Royals,,2013,TRUE,56th Annual GRAMMY Awards  (2013),2017-11-28T00:03:45-08:00,2019-09-10T01:06:59-07:00,Song Of The Year,"Joel Little & Ella Yelich O'Connor, songwriters (Lorde)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/465349571_lorde.jpg?itok=gLxQIFZq,,,,,,,,,,,,,,,,,
-We Are Young,,2012,TRUE,55th Annual GRAMMY Awards  (2012),2017-11-28T00:03:45-08:00,2019-09-10T01:06:11-07:00,Song Of The Year,"Jack Antonoff, Jeff Bhasker, Andrew Dost & Nate Ruess, songwriters (Fun. Featuring Janelle Monáe)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/161433969_fun.jpg?itok=2EygTiQN,19,0.00428,Streets Of Gold (Deluxe),3OH!3,0.764,198653,0.736,FALSE,9.31E-05,0.0407,-4.328,1,0,0.0567,110.007,4,0.869
-Rolling In The Deep,,2011,TRUE,54th Annual GRAMMY Awards  (2011),2017-11-28T00:03:45-08:00,2019-09-10T01:07:37-07:00,Song Of The Year,"Adele & Paul Epworth, songwriters (Adele)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/138863909_adele.jpg?itok=AcTf2dRn,,,,Adele,,,,,,,,,,,,,
-Need You Now,,2010,TRUE,53rd Annual GRAMMY Awards  (2010),2017-11-28T00:03:45-08:00,2019-09-10T01:08:19-07:00,Song Of The Year,"Dave Haywood, Josh Kear, Charles Kelley & Hillary Scott, songwriters (Lady Antebellum)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/109066954_lady_antebellum.jpg?itok=3t1yrH98,63,0.0927,Need You Now,Lady Antebellum,0.587,277573,0.622,FALSE,0.000636,0.2,-5.535,1,35,0.0303,107.943,4,0.231
-Single Ladies (Put A Ring On It),,2009,TRUE,52nd Annual GRAMMY Awards  (2009),2017-11-28T00:03:45-08:00,2019-09-10T01:08:19-07:00,Song Of The Year,"Kuk Harrell, Beyoncé Knowles, Terius ""Dream"" Nash & Chris 'Tricky' Stewart, songwriters (Beyoncé)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/96309470_beyonce.jpg?itok=gTV_qUp7,,,,,,,,,,,,,,,,,
-Viva La Vida,,2008,TRUE,51st Annual GRAMMY Awards  (2008),2017-11-28T00:03:45-08:00,2019-09-10T01:07:37-07:00,Song Of The Year,"Coldplay (Guy Berryman, Jon Buckland, Will Champion & Chris Martin), songwriters (Coldplay)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Coldplay/Coldplay_1_1_1591112967.jpg?itok=lLCPutNO,,,,,,,,,,,,,,,,,
-Rehab,,2007,TRUE,50th Annual GRAMMY Awards  (2007),2017-11-28T00:03:45-08:00,2019-09-10T01:06:59-07:00,Song Of The Year,"Amy Winehouse, songwriter (Amy Winehouse)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Amy%2BWinehouse/Amy%2520Winehouse_1_1_1578384847.jpg?itok=E0x96uqF,0,0.0541,Back To Black (Deluxe Edition),Amy Winehouse,0.407,214947,0.558,FALSE,1.51E-06,0.34,-13.609,1,52,0.0552,71.815,4,0.777
-Not Ready To Make Nice,,2006,TRUE,49th Annual GRAMMY Awards  (2006),2017-11-28T00:03:45-08:00,2019-09-10T01:11:09-07:00,Song Of The Year,"Martie Maguire, Natalie Maines, Emily Robison & Dan Wilson, songwriters (Dixie Chicks)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Natalie%2BMaines/Natalie%2520Maines_1_1_1581557518.jpg?itok=T1KmVHGN,,,,,,,,,,,,,,,,,
-Sometimes You Can't Make It On Your Own,,2005,TRUE,48th Annual GRAMMY Awards  (2005),2017-11-28T00:03:45-08:00,2017-11-28T00:03:45-08:00,Song Of The Year,"U2 (Bono, Adam Clayton, Edge & Larry Mullen Jr.), songwriters (U2)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/U2/U2_1_1_1578385236.jpg?itok=rQVhxxhL,193,0.00243,How To Dismantle An Atomic Bomb,U2,0.527,308893,0.595,FALSE,0.339,0.111,-5.43,1,36,0.0243,95.985,4,0.382
-Daughters,,2004,TRUE,47th Annual GRAMMY Awards  (2004),2017-11-28T00:03:45-08:00,2019-09-10T01:08:19-07:00,Song Of The Year,"John Mayer, songwriter (John Mayer)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/John%2BMayer/John%2520Mayer_1_1_1578384892.jpg?itok=QM4MUEXo,112,0.837,Heavier Things,John Mayer,0.674,237907,0.413,FALSE,1.91E-05,0.098,-7.816,1,71,0.0274,124.895,3,0.503
-Dance With My Father,,2003,TRUE,46th Annual GRAMMY Awards  (2003),2017-11-28T00:03:45-08:00,2019-09-10T01:07:37-07:00,Song Of The Year,"Richard Marx & Luther Vandross, songwriters (Luther Vandross)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Richard%2BMarx/Richard%2520Marx_1_1_1581371595.jpg?itok=9MJ-bpjr,,,,,,,,,,,,,,,,,
-Don't Know Why,,2002,TRUE,45th Annual GRAMMY Awards  (2002),2017-11-28T00:03:45-08:00,2019-09-10T01:06:59-07:00,Song Of The Year,"Jesse Harris, songwriter (Norah Jones)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Jesse%2BHarris/Jesse%2520Harris_1_1_1575365417.jpg?itok=tCncj7Q5,0,0.877,Come Away With Me (Deluxe Edition),Norah Jones,0.739,186160,0.199,FALSE,1.23E-05,0.0591,-11.763,1,59,0.028,88.466,4,0.631
-Fallin',Alicia Keys,2001,TRUE,44th Annual GRAMMY Awards  (2001),2017-11-28T00:03:45-08:00,2019-09-10T01:06:11-07:00,Song Of The Year,"Alicia Keys, songwriter (Alicia Keys)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Alicia%2BKeys/Alicia%2520Keys_1_1_1584094646.jpg?itok=vIOmIzAR,80,0.231,II,,,,,,,,,,,,,,
-Beautiful Day,,2000,TRUE,43rd Annual GRAMMY Awards  (2000),2017-11-28T00:03:45-08:00,2019-09-10T01:11:09-07:00,Song Of The Year,"U2 (Bono, Adam Clayton, Edge & Larry Mullen Jr.), songwriters (U2)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/U2/U2_1_1_1578385236.jpg?itok=rQVhxxhL,179,0.0154,All That You Can't Leave Behind,U2,0.536,248400,0.928,FALSE,0.00134,0.2,-6.492,0,73,0.0589,136.258,4,0.389
-Smooth,,1999,TRUE,42nd Annual GRAMMY Awards  (1999),2017-11-28T00:03:45-08:00,2019-09-10T01:09:02-07:00,Song Of The Year,"Itaal Shur & Rob Thomas, songwriters (Santana Featuring Rob Thomas)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Itaal%2BShur/Itaal%2520Shur_1_1_1581552170.jpg?itok=AyHklvoW,70,0.159,iTunes Originals,Rob Thomas,0.615,295133,0.86,FALSE,4.07E-05,0.128,-7.224,1,0,0.0303,115.941,4,0.964
-Keep Me In Your Heart,Jorge Calderon & Warren Zevon,2004,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+song_name,artist,year,winner,title,category,workers,img,Unnamed: 0,Acousticness,Album,Artist,Danceability,Duration,Energy,Explicit,Instrumentalness,Liveness,Loudness,Mode,Popularity,Speechiness,Tempo,TimeSignature,Valence
+All The Stars,"Kendrick Lamar, SZA, Al Shuckburgh, Mark Spears & Anthony Tiffith",2018,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Boo'd Up,"Larrance Dopson, Joelle James, Ella Mai & Dijon McFarlane",2018,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+God's Plan,"Drake, Daveon Jackson, Brock Korsan, Ron LaTour, Matthew Samuels & Noah Shebib",2018,FALSE,N/A,N/A,N/A,N/A,112,0.0332,Scorpion,Drake,0.754,198973,0.449,TRUE,8.29E-05,0.552,-9.211,1,86,0.109,77.169,4,0.357
+In My Blood,"Teddy Geiger, Scott Harris, Shawn Mendes & Geoffrey Warburton",2018,FALSE,N/A,N/A,N/A,N/A,164,0.069,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+The Joke,"Brandi Carlile, Dave Cobb, Phil Hanseroth & Tim Hanseroth",2018,FALSE,N/A,N/A,N/A,N/A,26,0.327,"By The Way, I Forgive You",Brandi Carlile,0.236,279373,0.578,FALSE,0.00015,0.206,-5.477,1,62,0.0404,75.367,4,0.227
+The Middle,"Sarah Aarons, Jordan K. Johnson, Stefan Johnson, Marcus Lomax, Grey & Zedd",2018,FALSE,N/A,N/A,N/A,N/A,34,0.0371,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Shallow,"Lady Gaga, Mark Ronson, Anthony Rossomando & Andrew Wyatt",2018,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Despacito,"Daddy Yankee, Justin Bieber, Jason ""Poo Bear"" Boyd, Erika Ender, Luis Fonsi & Marty James Garton",2017,FALSE,N/A,N/A,N/A,N/A,221,0.198,VIDA,Luis Fonsi,0.655,229360,0.797,FALSE,0,0.067,-4.787,1,79,0.153,177.928,4,0.839
+4:44,Jay-Z & Dion Wilson,2017,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Issues,"Benjamin Levin, Mikkel Storleer, Tor Erik Hermansen, Julia Michaels & Justin Drew Tranter",2017,FALSE,N/A,N/A,N/A,N/A,14,0.349,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+1-800-273-8255,"Alessia Cara, Logic, Arjun Ivatury & Khalid",2017,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Alright,"Kendrick Lamar, Mark Anthony Spears & Pharrell",2016,FALSE,N/A,N/A,N/A,N/A,77,0.0742,To Pimp A Butterfly,Kendrick Lamar,0.796,219333,0.766,TRUE,0,0.0827,-5.974,1,26,0.238,110.034,4,0.558
+Blank Space,"Max Martin, Shellback & Taylor Swift",2016,FALSE,N/A,N/A,N/A,N/A,1,0.103,1989 (Deluxe Edition),Taylor Swift,0.76,231827,0.703,FALSE,0,0.0913,-5.412,1,60,0.054,95.997,4,0.57
+Girl Crush,"Hillary Lindsey, Lori McKenna & Liz Rose",2016,FALSE,N/A,N/A,N/A,N/A,31,0.842,Pain Killer,Little Big Town,0.5,193320,0.225,FALSE,0,0.112,-10.22,1,23,0.0302,173.788,3,0.355
+See You Again,"Andrew Cedar,Justin Franks, Charlie Puth & Wiz Khalifa",2016,FALSE,N/A,N/A,N/A,N/A,23,0.0149,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+All About That Bass,Kevin Kadish & Meghan Trainor,2015,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Chandelier,Sia,2015,FALSE,N/A,N/A,N/A,N/A,0,0.0163,1000 Forms of Fear (Deluxe Version),Sia,0.286,216120,0.784,FALSE,6.48E-05,0.0713,-2.873,1,34,0.0749,173.793,4,0.618
+Shake It Off,"Max Martin, Shellback & Taylor Swift",2015,FALSE,N/A,N/A,N/A,N/A,5,0.0647,1989 (Deluxe Edition),Taylor Swift,0.647,219200,0.8,FALSE,0,0.334,-5.384,1,59,0.165,160.078,4,0.942
+Take Me To Church,Hozier,2015,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Just Give Me A Reason,"Jeff Bhasker, Pink & Nate Ruess",2014,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Locked Out Of Heaven,"Phillip Lawrence, Art Levine & Bruno Mars",2014,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Roar,"Lukasz Gottwalk, Max Martin, Bonnie McKee, Katy Perry & Henry Walter",2014,FALSE,N/A,N/A,N/A,N/A,0,0.00487,PRISM (Deluxe),Katy Perry,0.554,223546,0.772,FALSE,6.60E-06,0.354,-4.821,0,78,0.0418,179.984,4,0.455
+Same Love,"Macklemore, Mary Lambert & Ryan Lewis",2014,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Stronger (What Doesn't Kill You),"Jorgen Elofsson, David Gamson, Greg Kurstin & Ali Tamposi",2013,FALSE,N/A,N/A,N/A,N/A,18,0.0442,Stronger (Deluxe Version),Kelly Clarkson,0.564,221947,0.939,FALSE,0,0.112,-4.278,1,46,0.0478,116.025,4,0.613
+Call Me Maybe,Carly Rae Jepson,2013,FALSE,N/A,N/A,N/A,N/A,32,0.0106,Kiss (Deluxe),Carly Rae Jepsen,0.782,193853,0.573,FALSE,2.82E-06,0.107,-6.558,1,55,0.0382,120.005,4,0.658
+Adorn,Miguel,2013,FALSE,N/A,N/A,N/A,N/A,0,0.0543,Kaleidoscope Dream (Deluxe Version),Miguel,0.625,193147,0.576,FALSE,4.07E-05,0.187,-5.693,0,34,0.175,179.063,4,0.235
+The A Team,Ed Sheeran,2013,FALSE,N/A,N/A,N/A,N/A,32,0.669,+,Ed Sheeran,0.642,258373,0.289,FALSE,0,0.18,-9.918,1,27,0.0367,84.996,4,0.407
+Holocene,Justin Vernon,2012,FALSE,N/A,N/A,N/A,N/A,12,0.943,Bon Iver,Bon Iver,0.375,336613,0.304,FALSE,0.303,0.126,-14.52,1,71,0.0302,147.989,4,0.147
+Grenade,"Brody Brown, Claude Kelly, Philip Lawrence, Ari Levine, Bruno Mars & Andrew Wyatt",2012,FALSE,N/A,N/A,N/A,N/A,24,0.146,Doo-Wops & Hooligans,Bruno Mars,0.706,223253,0.558,FALSE,0,0.118,-7.237,0,75,0.0593,110.443,4,0.227
+The Cave,Mumford & Sons,2012,FALSE,N/A,N/A,N/A,N/A,42,0.0487,Sigh No More (Deluxe),Mumford,0.59,218000,0.51,FALSE,8.79E-05,0.0819,-9.456,1,42,0.0384,141.939,4,0.331
+All Of The Lights,"Jeff Bhasker, Malik Jones, Warren Trotter & Kanye West",2012,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Love The Way You Lie,"Alexander Grant, Holly Hafferman & Eminem",2011,FALSE,N/A,N/A,N/A,N/A,37,0.241,Recovery (Deluxe Edition),Eminem,0.749,263373,0.925,TRUE,0,0.52,-5.034,1,14,0.227,86.989,4,0.641
+The House That Built M,Tom Douglas & Allen Shambolin,2011,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+F*** Yo,"Cee Lo Green, Phillip Lawrence & Bruno Mars",2011,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Beg Steal Or Borrow,Ray LaMontagne,2011,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+You Belong With Me,Liz Rose & Taylor Swift,2010,FALSE,N/A,N/A,N/A,N/A,85,0.16,Fearless,Taylor Swift,0.688,231453,0.765,FALSE,1.78E-05,0.103,-4.451,1,34,0.0387,129.967,4,0.431
+Use Somebody,Kings Of Leon,2010,FALSE,N/A,N/A,N/A,N/A,29,0.00552,Only By The Night,Kings Of Leon,0.276,230760,0.715,FALSE,0.000417,0.201,-5.356,1,77,0.0432,137.028,4,0.173
+Pretty Wings,Hod David & Musze,2010,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Poker Face,Lady Gaga & RedOne,2010,FALSE,N/A,N/A,N/A,N/A,110,0.118,The Fame,Lady Gaga,0.851,237200,0.806,FALSE,1.64E-06,0.121,-4.62,1,76,0.0787,118.999,4,0.787
+American Boy,"William Adams, Keith Harris, Josh Lopez, Caleb Speir, John Stephens, Estelle Swaray & Kanye West",2009,FALSE,N/A,N/A,N/A,N/A,31,0.171,Shine,Estelle,0.727,284733,0.729,TRUE,0,0.07,-2.99,1,27,0.326,117.932,4,0.512
+Chasing Pavements,Adele Adkins & Eg White,2009,FALSE,N/A,N/A,N/A,N/A,2,0.312,19,Adele,0.621,210507,0.473,FALSE,0,0.11,-6.07,0,65,0.0251,80.027,4,0.325
+I'm Yours,Jason Mraz,2009,FALSE,N/A,N/A,N/A,N/A,19,0.595,We Sing. We Dance. We Steal Things. (Deluxe),Jason Mraz,0.686,242187,0.457,FALSE,0,0.105,-8.322,1,42,0.0468,150.953,4,0.718
+Love Song,Sara Bareilles,2009,FALSE,N/A,N/A,N/A,N/A,62,0.0208,Little Voice,Sara Bareilles,0.583,258827,0.786,FALSE,0,0.188,-3.142,0,77,0.0301,123.052,4,0.573
+Before He Cheats,Josh Kear & Chris Tompkins,2008,FALSE,N/A,N/A,N/A,N/A,63,0.271,Some Hearts,Carrie Underwood,0.519,199947,0.749,FALSE,0,0.119,-3.318,0,74,0.0405,147.905,4,0.29
+Hey There Delilah,Tom Higgenson,2008,FALSE,N/A,N/A,N/A,N/A,31,0.872,All That We Needed,Plain White T's,0.657,232533,0.291,FALSE,0,0.114,-10.572,1,81,0.0293,103.973,4,0.298
+Like a Star,Corinne Bailey Rae,2008,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Umbrella,"Shawn Carter, Kuk Harrell, Terius 'Dream' Nash & Christopher Stewart",2008,FALSE,N/A,N/A,N/A,N/A,187,0.00923,Good Girl Gone Bad: Reloaded,Rihanna,0.585,275987,0.833,FALSE,0,0.0452,-4.569,1,42,0.113,174.01,4,0.597
+Be Without You,"Johnta Austin, Mary J. Blige, Bryan-Michael Cox & Jason Perry",2007,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+"Jesus, Take The Wheel","Brett James, Hillary Lindsey & Gordie Sampso",2007,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Put Your Records On,"John Beck, Steve Christanthou & Corinne Bailey Rae",2007,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+You're Beautiful,"James Blunt, Amanda Ghost & Sacha Skarbek",2007,FALSE,N/A,N/A,N/A,N/A,62,0.633,Back to Bedlam,James Blunt,0.675,209493,0.479,TRUE,1.76E-05,0.088,-9.87,0,69,0.0278,81.998,4,0.454
+Bless The Broken Road,"Bobby Boyd, Jeff Hanna & Marcus Hummon",2006,FALSE,N/A,N/A,N/A,N/A,29,0.668,Feels Like Today,Rascal Flatts,0.588,226693,0.448,FALSE,1.45E-05,0.156,-6.37,1,22,0.0265,135.949,4,0.362
+Devil & Dust,Bruce Springsteen,2006,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Ordinary People,W. Adams & John Legend,2006,FALSE,N/A,N/A,N/A,N/A,46,0.929,Get Lifted,John Legend,0.469,281467,0.132,FALSE,0,0.0873,-14.001,1,71,0.0807,67.011,3,0.36
+We Belong Together,"J. Austin, Mariah Carey, J. Dupri & M. Seal",2006,FALSE,N/A,N/A,N/A,N/A,204,0.026,The Emancipation of Mimi,Mariah Carey,0.841,201387,0.475,FALSE,0,0.0785,-7.945,1,27,0.0644,139.971,4,0.765
+If I Ain't Got You,Alicia Keys,2005,FALSE,N/A,N/A,N/A,N/A,49,0.603,The Diary Of Alicia Keys,Alicia Keys,0.609,228707,0.445,FALSE,6.77E-06,0.104,-9.129,1,80,0.106,118.393,3,0.166
+Jesus Walks,C. Smith & Kanye West,2005,FALSE,N/A,N/A,N/A,N/A,126,0.00902,Gangsta Grillz Legends Series,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Live Like You Were Dying,Tim Nichols & Craig Wiseman,2005,FALSE,N/A,N/A,N/A,N/A,132,0.492,Live Like You Were Dying,Tim McGraw,0.416,300333,0.546,FALSE,0,0.0845,-7.728,1,68,0.0297,159.929,4,0.418
+The Reason,Hoobastank,2005,FALSE,N/A,N/A,N/A,N/A,61,0.0772,Gravity,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Beautiful,Linda Perry,2004,FALSE,N/A,N/A,N/A,N/A,139,0.578,Stripped,Christina Aguilera,0.457,238560,0.573,FALSE,3.05E-06,0.114,-3.866,0,72,0.0275,76.193,4,0.0992
+I'm With You,Avril Lavigne & The Matrix,2004,FALSE,N/A,N/A,N/A,N/A,0,0.414,Spreading Rumours (Deluxe Version),N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Lose Yourself,Lose Yourself,2004,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,Eminem,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Complicated,Avril Lavigne & The Matrix,2003,FALSE,N/A,N/A,N/A,N/A,13,0.0572,Let Go,Avril Lavigne,0.585,244507,0.776,FALSE,7.74E-06,0.3,-5.898,1,79,0.0459,77.987,4,0.427
+The Rising,Bruce Springsteen,2003,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+A Thousand Miles,Vanessa Carlton,2003,FALSE,N/A,N/A,N/A,N/A,38,0.263,Be Not Nobody,Vanessa Carlton,0.573,237373,0.818,FALSE,0,0.161,-4.469,1,12,0.0355,94.933,4,0.309
+Where Were You (When The World Stopped Turning),Alan Jackson,2003,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Drops Of Jupiter,"Charlie Colin, Rob Hotchkiss, Pat Monahan, Jimmy Stafford & Scott Underwood",2002,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+I'm Like A Bird,Nelly Furtado,2002,FALSE,N/A,N/A,N/A,N/A,120,0.145,"Whoa, Nelly!",Nelly Furtado,0.623,243160,0.605,FALSE,3.46E-06,0.227,-5.113,1,0,0.0353,89.656,4,0.616
+Stuck In A Moment You Can't Get Out Of,U2,2002,FALSE,N/A,N/A,N/A,N/A,180,0.407,All That You Can't Leave Behind,U2,0.526,273467,0.665,FALSE,0.000271,0.169,-4.997,1,65,0.0243,158.493,4,0.285
+Video,"India.Arie, Carlos Broady & Shannon Sanders",2002,FALSE,N/A,N/A,N/A,N/A,19,0.104,Acoustic Soul,India.Arie,0.652,249960,0.621,FALSE,5.30E-06,0.0382,-8.677,0,63,0.263,169.983,4,0.661
+Breathe,Stephanie Bentley & Holly Lamar,2001,FALSE,N/A,N/A,N/A,N/A,86,0.00615,"Hints, Allegations & Things Left Unsaid",N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+I Hope You Dance,Mark D. Sanders & Tia Sellers,2001,FALSE,N/A,N/A,N/A,N/A,13,0.0569,I Hope You Dance,Lee Ann Womack,0.381,294440,0.451,FALSE,0,0.112,-9.592,0,49,0.0307,151.109,4,0.244
+I Try,"Macy Gray, Jinsoo Lim, Jeremy Ruzumna & David Wilder",2001,FALSE,N/A,N/A,N/A,N/A,65,0.313,On How Life Is,Macy Gray,0.593,239440,0.642,FALSE,0.000582,0.0804,-7.284,1,73,0.0299,76.403,4,0.736
+Say My Name,"La Shawn Daniels, Fred Jerkins III, Rodney Jerkins, Beyoncé Knowles, LeToya Lucket, LaTavia Roberson & Kelendria Rowland",2001,FALSE,N/A,N/A,N/A,N/A,133,0.000151,When Legends Rise,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+I Want It That Way,Andreas Carlsson & Max Martin,2000,FALSE,N/A,N/A,N/A,N/A,62,0.257,Millennium,Backstreet Boys,0.689,213307,0.694,FALSE,0,0.148,-5.83,0,79,0.027,99.039,4,0.482
+Livin' La Vida Loca,Desmond Child & Robi Rosa,2000,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Unpretty,"Dallas Austin & Tionne ""T-Boz"" Watkins",2000,FALSE,N/A,N/A,N/A,N/A,54,0.0011,Fanmail,TLC,0.648,278000,0.636,FALSE,6.39E-05,0.125,-6.054,1,38,0.0401,88.692,4,0.532
+You've Got A Way,"Robert John ""Mutt"" Lange & Shania Twain",2000,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+I Don't Want To Miss A Thing,Diane Warren,1999,FALSE,N/A,N/A,N/A,N/A,46,0.00228,From The Screen To Your Stereo,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Iris,John Rzeznik,1999,FALSE,N/A,N/A,N/A,N/A,62,0.00125,Dizzy up the Girl,Goo Goo Dolls,0.315,289533,0.715,FALSE,7.97E-06,0.0942,-8.072,0,79,0.0362,155.925,3,0.497
+Lean On Me,Kirk Franklin,1999,FALSE,N/A,N/A,N/A,N/A,163,0.269,The Nu Nation Project,Kirk Franklin,0.517,309067,0.464,FALSE,0,0.0827,-8.021,1,47,0.0275,106.395,4,0.162
+This Is America,Childish Gambino,2018,TRUE,N/A,Song Of The Year,"Donald Glover, Ludwig Göransson & Jeffery Lamar Williams, songwriters (Childish Gambino)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Childish%2BGambino/Childish%2520Gambino_1_1_1591112936.jpg?itok=AU_J_f8x,0,0,N/A,Childish Gambino,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+That's What I Like,N/A,2017,TRUE,60th Annual GRAMMY Awards  (2017),Song Of The Year,"Christopher Brody Brown, James Fauntleroy, Philip Lawrence, Bruno Mars, Ray Charles McCullough II, Jeremy Reeves, Ray Romulus & Jonathan Yip, songwriters (Bruno Mars)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/James%2BFauntleroy/James%2520Fauntleroy_1_1_1581557523.jpg?itok=_ub-XLB4,18,0.013,24K Magic,Bruno Mars,0.853,206693,0.56,FALSE,0,0.0944,-4.961,1,83,0.0406,134.066,4,0.86
+Hello,N/A,2016,TRUE,59th Annual GRAMMY Awards  (2016),Song Of The Year,"Adele Adkins & Greg Kurstin, songwriters (Adele)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Adele/Adele_1_1_1584090130.jpg?itok=xlwW6t3a,23,0.336,25,Adele,0.481,295493,0.451,FALSE,0,0.0872,-6.095,0,73,0.0347,157.966,4,0.289
+Thinking Out Loud,N/A,2015,TRUE,58th Annual GRAMMY Awards  (2015),Song Of The Year,"Ed Sheeran & Amy Wadge, songwriters (Ed Sheeran)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Ed%2BSheeran/Ed%2520Sheeran_1_1_1594056948.jpg?itok=On8YTR-K,110,0.0118,Lovers Rock and Soul,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Stay With Me (Darkchild Version),N/A,2014,TRUE,57th Annual GRAMMY Awards  (2014),Song Of The Year,"James Napier, William Phillips & Sam Smith, songwriters (Sam Smith)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/sam-smith-02.jpg?itok=EwX5jbxK,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Royals,N/A,2013,TRUE,56th Annual GRAMMY Awards  (2013),Song Of The Year,"Joel Little & Ella Yelich O'Connor, songwriters (Lorde)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/465349571_lorde.jpg?itok=gLxQIFZq,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+We Are Young,N/A,2012,TRUE,55th Annual GRAMMY Awards  (2012),Song Of The Year,"Jack Antonoff, Jeff Bhasker, Andrew Dost & Nate Ruess, songwriters (Fun. Featuring Janelle Monáe)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/161433969_fun.jpg?itok=2EygTiQN,19,0.00428,Streets Of Gold (Deluxe),3OH!3,0.764,198653,0.736,FALSE,9.31E-05,0.0407,-4.328,1,0,0.0567,110.007,4,0.869
+Rolling In The Deep,N/A,2011,TRUE,54th Annual GRAMMY Awards  (2011),Song Of The Year,"Adele & Paul Epworth, songwriters (Adele)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/138863909_adele.jpg?itok=AcTf2dRn,0,0,N/A,Adele,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Need You Now,N/A,2010,TRUE,53rd Annual GRAMMY Awards  (2010),Song Of The Year,"Dave Haywood, Josh Kear, Charles Kelley & Hillary Scott, songwriters (Lady Antebellum)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/109066954_lady_antebellum.jpg?itok=3t1yrH98,63,0.0927,Need You Now,Lady Antebellum,0.587,277573,0.622,FALSE,0.000636,0.2,-5.535,1,35,0.0303,107.943,4,0.231
+Single Ladies (Put A Ring On It),N/A,2009,TRUE,52nd Annual GRAMMY Awards  (2009),Song Of The Year,"Kuk Harrell, Beyoncé Knowles, Terius ""Dream"" Nash & Chris 'Tricky' Stewart, songwriters (Beyoncé)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/96309470_beyonce.jpg?itok=gTV_qUp7,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Viva La Vida,N/A,2008,TRUE,51st Annual GRAMMY Awards  (2008),Song Of The Year,"Coldplay (Guy Berryman, Jon Buckland, Will Champion & Chris Martin), songwriters (Coldplay)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Coldplay/Coldplay_1_1_1591112967.jpg?itok=lLCPutNO,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Rehab,N/A,2007,TRUE,50th Annual GRAMMY Awards  (2007),Song Of The Year,"Amy Winehouse, songwriter (Amy Winehouse)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Amy%2BWinehouse/Amy%2520Winehouse_1_1_1578384847.jpg?itok=E0x96uqF,0,0.0541,Back To Black (Deluxe Edition),Amy Winehouse,0.407,214947,0.558,FALSE,1.51E-06,0.34,-13.609,1,52,0.0552,71.815,4,0.777
+Not Ready To Make Nice,N/A,2006,TRUE,49th Annual GRAMMY Awards  (2006),Song Of The Year,"Martie Maguire, Natalie Maines, Emily Robison & Dan Wilson, songwriters (Dixie Chicks)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Natalie%2BMaines/Natalie%2520Maines_1_1_1581557518.jpg?itok=T1KmVHGN,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Sometimes You Can't Make It On Your Own,N/A,2005,TRUE,48th Annual GRAMMY Awards  (2005),Song Of The Year,"U2 (Bono, Adam Clayton, Edge & Larry Mullen Jr.), songwriters (U2)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/U2/U2_1_1_1578385236.jpg?itok=rQVhxxhL,193,0.00243,How To Dismantle An Atomic Bomb,U2,0.527,308893,0.595,FALSE,0.339,0.111,-5.43,1,36,0.0243,95.985,4,0.382
+Daughters,N/A,2004,TRUE,47th Annual GRAMMY Awards  (2004),Song Of The Year,"John Mayer, songwriter (John Mayer)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/John%2BMayer/John%2520Mayer_1_1_1578384892.jpg?itok=QM4MUEXo,112,0.837,Heavier Things,John Mayer,0.674,237907,0.413,FALSE,1.91E-05,0.098,-7.816,1,71,0.0274,124.895,3,0.503
+Dance With My Father,N/A,2003,TRUE,46th Annual GRAMMY Awards  (2003),Song Of The Year,"Richard Marx & Luther Vandross, songwriters (Luther Vandross)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Richard%2BMarx/Richard%2520Marx_1_1_1581371595.jpg?itok=9MJ-bpjr,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Don't Know Why,N/A,2002,TRUE,45th Annual GRAMMY Awards  (2002),Song Of The Year,"Jesse Harris, songwriter (Norah Jones)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Jesse%2BHarris/Jesse%2520Harris_1_1_1575365417.jpg?itok=tCncj7Q5,0,0.877,Come Away With Me (Deluxe Edition),Norah Jones,0.739,186160,0.199,FALSE,1.23E-05,0.0591,-11.763,1,59,0.028,88.466,4,0.631
+Fallin',Alicia Keys,2001,TRUE,44th Annual GRAMMY Awards  (2001),Song Of The Year,"Alicia Keys, songwriter (Alicia Keys)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Alicia%2BKeys/Alicia%2520Keys_1_1_1584094646.jpg?itok=vIOmIzAR,80,0.231,II,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
+Beautiful Day,N/A,2000,TRUE,43rd Annual GRAMMY Awards  (2000),Song Of The Year,"U2 (Bono, Adam Clayton, Edge & Larry Mullen Jr.), songwriters (U2)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/U2/U2_1_1_1578385236.jpg?itok=rQVhxxhL,179,0.0154,All That You Can't Leave Behind,U2,0.536,248400,0.928,FALSE,0.00134,0.2,-6.492,0,73,0.0589,136.258,4,0.389
+Smooth,N/A,1999,TRUE,42nd Annual GRAMMY Awards  (1999),Song Of The Year,"Itaal Shur & Rob Thomas, songwriters (Santana Featuring Rob Thomas)",https://www.grammy.com/sites/com/files/styles/artist_circle/public/muzooka/Itaal%2BShur/Itaal%2520Shur_1_1_1581552170.jpg?itok=AyHklvoW,70,0.159,iTunes Originals,Rob Thomas,0.615,295133,0.86,FALSE,4.07E-05,0.128,-7.224,1,0,0.0303,115.941,4,0.964
+Keep Me In Your Heart,Jorge Calderon & Warren Zevon,2004,FALSE,N/A,N/A,N/A,N/A,0,0,N/A,N/A,0,0,0,N/A,0,0,0,0,0,0,0,0,0
