@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Do Certain Song Characteristics Impact Likelihood of Winning a Grammy Award?
 
 ## Our Selected Topic
@@ -42,3 +43,11 @@ Indeed it does.  After evaluating importances and the success of the model, we c
 tend to win over the other nominees.
 
 ### Note:  this was not our original project idea.  Benjamin Rathke (author of this readme) originally sourced data from COVID-19 data and statistics, but that data did not lend itself well to the machine learning models the group wished to employ.
+=======
+# Proposed New Project  
+* Datasets are included in this resources folder to create the new database schema/tables, merge, clean, and transform the data in the datasets, and perform a logistic regression on the final usable dataset.  
+
+* There should be 5 tables in the database, one for each of the .csv files here.  
+
+* The "songdata_cleaned.csv" contains appropriate data for a logistic regression model.  The target (y) value will be the "winner" column, and the features (X) will be everything else.
+>>>>>>> c5dcb40e33775adf38232a30b84c3c1c779a7b29
