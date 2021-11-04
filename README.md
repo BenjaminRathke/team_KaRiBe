@@ -29,8 +29,16 @@ Three original datasets were used.  The "Song of the Year" award does not go to 
 * Features were scaled as data such as "duration" were excessively larger than other features and could have caused confusion in the models.
 
 ##  Model Choice
-Multiple supervised models were explored.  Team members still need to discuss which may be best before final selection.  In the final model, up to four features will be dropped in the final model as ranked importances performed after a random forest model illustrated the minor impact of several features.
+Multiple supervised models were explored.  It was determined Gradient Boosting Tree was the most accurate and reliable model to use for this data as other models did not provide sufficient accuracy, and performs well in training and testing (there can be a tendency to overfit in this model without appropriate learning rates the lowest rate tested that had high accuracy in training and validation was used).  This model can be used for larger datasets going back to the start of the Grammy Awards, and future awards as well.
 
+##  Does this answer our question?
+Indeed it does.  After evaluating importances and the success of the model, we can predict that (when compared with other nominees only), songs that tend to have comparatively higher:
+* Valence (positivity, happiness, etc.)
+* Length
+* Instrumentalness (more instrumentation than their counterparts [as opposed to vocals])
+* Energy (speed, "noise")
+* Loudness (recording volume of a song)
 
+tend to win over the other nominees.
 
 ### Note:  this was not our original project idea.  Benjamin Rathke (author of this readme) originally sourced data from COVID-19 data and statistics, but that data did not lend itself well to the machine learning models the group wished to employ.
