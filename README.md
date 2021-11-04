@@ -29,7 +29,12 @@ Three original datasets were used.  The "Song of the Year" award does not go to 
 * Features were scaled as data such as "duration" were excessively larger than other features and could have caused confusion in the models.
 
 ##  Model Choice
-Multiple supervised models were explored.  It was determined Gradient Boosting Tree was the most accurate and reliable model to use for this data as other models did not provide sufficient accuracy, and performs well in training and testing (there can be a tendency to overfit in this model without appropriate learning rates the lowest rate tested that had high accuracy in training and validation was used).  This model can be used for larger datasets going back to the start of the Grammy Awards, and future awards as well.
+Multiple supervised models were explored.  It was determined Gradient Boosting Tree was the most accurate and reliable model to use for this data as other models did not provide sufficient accuracy, and performs well in training and testing (there can be a tendency to overfit in this model without appropriate learning rates the lowest rate tested that had high accuracy in training and validation was used).  This model can be used for larger datasets going back to the start of the Grammy Awards, and future awards as well. 
+
+## Description of Accuracy & Limitations of the Model.
+The model appears to be ~93% accurate; however, the dataset is small.  Had we access to a larger dataset or more matched song and song characteristics, we would likely be able to have a more objective model.  As art, however, music is by nature subjective, and even some evaluations of the music in 2021 may not have been the same evaluation during the awards year in question.  This is a "for fun," kind of model.
+
+However, with the relatively small dataset we ended up with here, accuracy scores may not reflect reality.  
 
 ##  Does this answer our question?
 Indeed it does.  After evaluating importances and the success of the model, we can predict that (when compared with other nominees only), songs that tend to have comparatively higher:
