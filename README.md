@@ -1,5 +1,7 @@
 # Do Certain Song Characteristics Impact Likelihood of Winning a Grammy Award?
 
+## [Our Presentation](https://docs.google.com/presentation/d/1tXXHXRAge_y_Qy1BurBvhBnOEhJT--YQzEd2NiHoDvU/edit#slide=id.p10)
+
 ## Our Selected Topic
 Using datasets scraped from grammy.com, a graduate music and data analysis project at California Polytechnic State University in San Luis Obispo, and sourced from kaggle.com, we set out to determine whether or not certain song characteristics could predict whether or not a song, if nominated, is likely to win "Song of the Year."
 
