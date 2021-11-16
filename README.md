@@ -2,6 +2,8 @@
 
 ## [Our Presentation](https://docs.google.com/presentation/d/1tXXHXRAge_y_Qy1BurBvhBnOEhJT--YQzEd2NiHoDvU/edit#slide=id.p10)
 
+## [Our Dashboard](https://public.tableau.com/views/FinalDashboard_16370375376950/WhatMakesaNomineeaWinner?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Our Selected Topic
 Using datasets scraped from grammy.com, a graduate music and data analysis project at California Polytechnic State University in San Luis Obispo, and sourced from kaggle.com, we set out to determine whether or not certain song characteristics could predict whether or not a song, if nominated, is likely to win "Song of the Year."
 
@@ -30,19 +32,26 @@ Three original datasets were used.  The "Song of the Year" award does not go to 
 ##  Model Choice
 Multiple supervised models were explored.  It was determined Gradient Boosting Tree was the most accurate and reliable model to use for this data as other models did not provide sufficient accuracy, and performs well in training and testing (there can be a tendency to overfit in this model without appropriate learning rates the lowest rate tested that had high accuracy in training and validation was used).  This model can be used for larger datasets going back to the start of the Grammy Awards, and future awards as well. 
 
+### Feature Selection
+After determining that several features had little impact on the model, we selected features that were greater than .11 in importance.  This accounted for the vast majority of determining attributes.  The model was retrained after removal of the unimportant features.
+
+## Confusion Matrix and Accuracy Score
+The model correctly predicted all losers and 67% of the winners.  While this resulted in an overall accuracy score of .93, the final data set used was very small.  
+
 ## Description of Accuracy & Limitations of the Model.
 The model appears to be ~93% accurate; however, the dataset is small.  Had we access to a larger dataset or more matched song and song characteristics, we would likely be able to have a more objective model.  As art, however, music is by nature subjective, and even some evaluations of the music in 2021 may not have been the same evaluation during the awards year in question.  This is a "for fun," kind of model.
-
-However, with the relatively small dataset we ended up with here, accuracy scores may not reflect reality.  
 
 ##  Does this answer our question?
 Indeed it does.  After evaluating importances and the success of the model, we can predict that (when compared with other nominees only), songs that tend to have comparatively higher:
 * Valence (positivity, happiness, etc.)
 * Length
 * Instrumentalness (more instrumentation than their counterparts [as opposed to vocals])
+
+And comparatively lower:
 * Energy (speed, "noise")
 * Loudness (recording volume of a song)
 
 tend to win over the other nominees.
 
-### Note:  this was not our original project idea.  Benjamin Rathke (author of this readme) originally sourced data from COVID-19 data and statistics, but that data did not lend itself well to the machine learning models the group wished to employ.
+## Would we have done anything differently?
+A more appropriate cleaning of the data for efficient matching of song titles with song attributes could have been done, had time allowed.  With the time alotted, a manual matching inside a .csv file made more sense, but would ultimately be too time consuming with larger data sets.  Toward the end of the project, it was discovered that while the data for our project was sourced from kaggle.com, the song attribute data originally came from a spotify API, while grammy nominee and winner information was originally scraped from grammy.com.  We discovered this too late in the process to perform the appropriate data scraping and API usage in time.  A larger dataset of all winners, losers, with all available Spotify attribute data from the history of the Grammy awards could potentially yield a more reliable model.  While again, this is a "fun" model, we would not necessarily use it to place large bets in Vegas for "Song of the Year" winner...The resulting dataset was sufficient to perform the tasks of the project, but ultimately too small to be anything other than, well, interesting and fun!
